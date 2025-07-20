@@ -1,4 +1,6 @@
 # declare a function
-abc () {
+abc ( ) {
   echo hello world
 }
+# how to access a function
+abc
